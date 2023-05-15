@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "893941322161",
+    "project_id": "attempt-1-f6d24",
+    "storage_bucket": "attempt-1-f6d24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893941322161:android:e7f0b7b04f5234a045ad90",
+        "android_client_info": {
+          "package_name": "com.muneeb.project_two"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893941322161-hobhn5365mm40a5ih98gnrqbi2k6olfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhuYjvB6eb7WT4uBEnXpmUF_PwE4qH0ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893941322161-hobhn5365mm40a5ih98gnrqbi2k6olfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893941322161:android:b9323ada5328fadb45ad90",
+        "android_client_info": {
+          "package_name": "muneeb.mad.project_one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893941322161-hobhn5365mm40a5ih98gnrqbi2k6olfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhuYjvB6eb7WT4uBEnXpmUF_PwE4qH0ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893941322161-hobhn5365mm40a5ih98gnrqbi2k6olfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
