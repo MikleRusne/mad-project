@@ -7,7 +7,7 @@ By Muhammad Muneeb, BSCS9C, 296133.
 # Check documentation.pdf for more details
 
 # Introduction
-Shallow is a mobile app where users can browse libraries by genre (currently only Gutendex), download ebooks and read them in the app. Users can also post articles, and follow other 
+Shallow is a mobile app where users can browse libraries by genre (currently only Gutendex), download ebooks and read them in the app. Us./screenshots/ers can also(ost articles, and follow othe)
 # Features:
 - Full user management system
 	- Follow other users
@@ -25,13 +25,13 @@ Shallow is a mobile app where users can browse libraries by genre (currently onl
 ## Users
 Represent the users of this application. Used for authentication and association with articles. A user may follow another user to receive notifications when they create a new article.
 The credentials are stored by Firebase's Authentication service
-![[Pasted image 20230514233402.png]]
+!(./screenshots/Pasted image 20230514233402.png)
 Their profile pictures are stored by Firebase Storage:
-![[Pasted image 20230514233440.png]]
+!(./screenshots/Pasted image 20230514233440.png)
 Opening the app leads to the login screen if not logged in, and the last tab (retrieved from **SharedPrefs**)
-![[login.png]]
-![[validation.png]]
-![[feed.png]]
+!(./screenshots/login.png)
+!(./screenshots/validation.png)
+!(./screenshots/feed.png)
 
 ![[notifications.png]]
 The user profile image is stored on Firebase storage, and is freely changeable through File Picker.
