@@ -42,7 +42,7 @@ For the reader part, I used Vocsy epub viewer package.
 Books are separated by genres first
 !(/screenshots/explore.png)
 Then in each genre:
-!(/screenshots/genre.png)
+![alt text](./screenshots/genre.png)
 ![[Pasted image 20230515222928.png]]
 ![[Pasted image 20230515222942.png]]
 Once downloaded, the book ends up in my books
